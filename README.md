@@ -6,12 +6,12 @@
 	![WebGL template 1.png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/WebGL%20template.png)
 
 
-## Installation:
+## Installation
 - Download the .zip file for this template: [here](https://github.com/ebukaracer/RacerMinimal/releases/download/v1.0.0/RacerMinimal.zip)
 - Extract the content using a zip program
 - Drag and drop or copy the extracted content to your project's assets' directory: `Assets/RacerMinimal`
 
-## Usage Guide:
+## Usage Guide
 
 ![Screenshot (455).png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/Screenshot%20(455).png)
 
@@ -28,7 +28,7 @@
 - `Hide footer:` Whether or not to hide the buttons below the container; value: `either true or false`
 - `Border colour:` Changes the border colour of the container and footer(if not hidden). You can specify `transparent` as a value if you don't need the borders displayed at all; value: `hex-colours(#xyz, #abc, etc), hardcoded colours(red, blue, etc)`, `transparent`
 
-## Side notes:
+## Side notes
 *In case you're hosting your unity WebGL game on [itch.io](itch.io), usually unity defaults a resolution of `960 X 600`, this tends to clip off this template's contents caused by the size of the container which itch website uses to render WebGL games.*
 
 *You can follow my ways to achieve a fitting dimension:*
@@ -38,8 +38,8 @@
 - 
 ![Screenshot (457).png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/Screenshot%20(457).png)  
 
-## Credits:
-- See [Unity docs](https://docs.unity3d.com/Manual/webgl-templates.html) on how to customize WebGL Templates.
+## Credits
+- See [Unity docs](https://docs.unity3d.com/Manual/webgl-templates.html) on how to customise WebGL Templates.
 - Got inspired by [Better-Minimal](https://seansleblanc.itch.io/better-minimal-webgl-template) 
 
 *Drop a ⭐ if found useful.*
