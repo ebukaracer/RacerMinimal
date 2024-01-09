@@ -1,5 +1,5 @@
 # RacerMinimal
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](http://makeapullrequest.com) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/LICENSE.md)
 
 - Simple yet sleek WebGL template for unity.
 	
