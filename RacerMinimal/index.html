@@ -32,13 +32,6 @@
     var quitButton = document.querySelector("#unity-quit-button");
     var fullscreenButton = document.querySelector("#unity-fullscreen-button");
 	var footer = document.getElementById("unity-footer");
-	
-	// Remove styles based on the state of another element directly to maintain position
-	if (footer.getAttribute("hide-footer") === "false") {
-        loaderContainer.style.transform = "translate(0%, -50%)";
-      } else {
-        loaderContainer.style.transform = "";
-      }
 	  
 		   
     // Shows a temporary message banner/ribbon for a few seconds, or
@@ -127,6 +120,13 @@
       canvas.style.height = "{{{ HEIGHT }}}px";
     }
 
+	// Remove styles based on the state of another element directly to maintain position
+	if (footer.getAttribute("hide-footer") === "false") {
+        loaderContainer.style.transform = "translate(0%, -50%)";
+      } else {
+        loaderContainer.style.transform = "";
+      }
+	  
     #if BACKGROUND_FILENAME
       canvas.style.background = "url('" + buildUrl + "/{{{ BACKGROUND_FILENAME.replace(/'/g, '%27') }}}') center / cover";
     #endif
