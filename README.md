@@ -1,5 +1,5 @@
 # RacerMinimal
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](http://makeapullrequest.com) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/LICENSE.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)](http://makeapullrequest.com) [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/LICENSE.md)
 
 - Simple yet sleek WebGL template for unity.
 	
@@ -48,5 +48,3 @@ If  imported successfully, you should see something similar as in the above imag
 ## Credits
 - See [Unity docs](https://docs.unity3d.com/Manual/webgl-templates.html) on how to customise WebGL Templates.
 - Got inspired by [Better-Minimal](https://seansleblanc.itch.io/better-minimal-webgl-template) 
-
-*Drop a ⭐ if found useful.*
