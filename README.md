@@ -1,23 +1,24 @@
 # RacerMinimal
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue)](http://makeapullrequest.com) [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/LICENSE.md)
 
-- Simple yet sleek WebGL template for unity.
-	
+ Simple yet sleek WebGL template for unity.
+
+- [Download RacerMinimal.zip](https://github.com/ebukaracer/RacerMinimal/releases)
+
 	![WebGL template 1.png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/WebGL%20template.png)
 
-
 ## Installation
-- Download the latest .zip file for this template: [here](https://github.com/ebukaracer/RacerMinimal/releases)
+- Download the latest .zip file for this template above
 - Extract the content using any zip program of choice
 - Drag and drop or copy the extracted folder `RacerMinimal` to your unity project's Assets folder: `Assets/RacerMinimal`
 
-You can simply clone this repo, copy and paste `RacerMinimal` folder to your unity project's Assets folder: `Assets/RacerMinimal`
+*..or  simply clone this repo, copy and paste `RacerMinimal` folder to your unity project's Assets folder: `Assets/RacerMinimal`*
 
 ## Usage Guide
 
 ![Screenshot (455).png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/Screenshot%20(455).png)
 
-If  imported successfully, you should see something similar as in the above image, by navigating to `file -> build setting -> player setting -> resolution and presentation`
+If  imported successfully, you should see something similar as in the above image, by navigating to `file > build setting > player setting > resolution and presentation`
 
 ### To use this template with its default settings, select `RacerMinimal` from of the listed templates.
 
@@ -32,8 +33,8 @@ If  imported successfully, you should see something similar as in the above imag
 
 ---
 
-## Notes
-> To change background colour navigate to: `Player Settings -> Splash Image -> Background -> Background Color`. Any colour you set there would be applied to this tool, you can observe it during the initial load of your game.  
+## Note for users
+> To change background colour navigate to: `Player Settings > Splash Image > Background > Background Color`. Any colour you set there would be applied to this tool, you can observe it during the initial load of your game.  
    ![Screenshot (458).png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/Screenshot%20(458).png)
 
 > In case you're hosting your unity WebGL game on [itch.io](itch.io), usually unity defaults a resolution of `960 X 600`, this tends to clip off this template's contents caused by the size of the container which itch website uses to render WebGL games:
