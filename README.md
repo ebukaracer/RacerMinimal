@@ -22,14 +22,14 @@ If  imported successfully, you should see something similar as in the above imag
 
 ### To use this template with its default settings, select `RacerMinimal` from of the listed templates.
 
-*Preview of it running on localhost:*
+*Preview:*
 
   ![Screenshot (558).png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/Screenshot%20(558).png)
 
 ### To use this template with custom settings, you can specify a value for the fields:
 - `Optimize for pixel art:` Handy if you're targeting pixel art style- set: `either true or false`
 - `Hide footer:` Whether or not to hide the buttons below the container- set: `either true or false`
-- `Border colour:` Changes the border colour of the container and footer(if not hidden). You can specify `transparent` as a value if you don't need the borders displayed at all otherwise- set: `hex-colours such as:(#xyz, #abc, etc), hardcoded colours such as:(red, blue, etc)`,  or `transparent`
+- `Border colour:` Changes the border colour of the container and footer(if not hidden). You can specify `transparent` as a value if you don't need the borders displayed at all otherwise- set: hex-colours such as: `(#xyz, #abc, etc)`, hardcoded colours such as: `(red, blue, etc)`,  or `transparent`
 
 ---
 
@@ -47,5 +47,5 @@ If  imported successfully, you should see something similar as in the above imag
 ![Screenshot (457).png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/Screenshot%20(457).png)  
 
 ## Credits
-- See [Unity docs](https://docs.unity3d.com/Manual/webgl-templates.html) on how to customise WebGL Templates.
+- See [Unity docs](https://docs.unity3d.com/Manual/webgl-templates.html) on how to customize WebGL Templates.
 - Got inspired by [Better-Minimal](https://seansleblanc.itch.io/better-minimal-webgl-template) 
