@@ -3,7 +3,7 @@
 
  Simple yet sleek WebGL template for unity.
 
-- [Download RacerMinimal.zip](https://github.com/ebukaracer/RacerMinimal/releases)
+- [Download RacerMinimal.zip latest](https://github.com/ebukaracer/RacerMinimal/releases/download/v2.1.0/RacerMinimal.zip)
 
 	![WebGL template 1.png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/WebGL%20template.png)
 
