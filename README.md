@@ -5,18 +5,21 @@
 
 - [Download RacerMinimal.zip latest](https://github.com/ebukaracer/RacerMinimal/releases/download/v2.1.0/RacerMinimal.zip)
 
-	![WebGL template 1.png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/WebGL%20template.png)
+	<p align="left">
+		<img src="https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/RM1.png" alt="img" width="400"/>
+		<img src="https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/RM2.gif" alt="gif" width="400"/>
+	</p>
 
 ## Installation
-- Download the latest .zip file for this template above
-- Extract the content using any zip program of choice
+- Download the latest `.zip` file for this template from the link above
+- Extract the contents using any zip program of your choice
 - Drag and drop or copy the extracted folder `RacerMinimal` to your unity project's Assets folder: `Assets/RacerMinimal`
 
 *..or  simply clone this repo, copy and paste `RacerMinimal` folder to your unity project's Assets folder: `Assets/RacerMinimal`*
 
 ## Usage Guide
 
-![Screenshot (455).png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/Screenshot%20(455).png)
+![img](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/RM3.png)
 
 If  imported successfully, you should see something similar as in the above image, by navigating to `file > build setting > player setting > resolution and presentation`
 
@@ -24,7 +27,7 @@ If  imported successfully, you should see something similar as in the above imag
 
 *Preview:*
 
-  ![Screenshot (558).png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/Screenshot%20(558).png)
+  ![img](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/RM4.png)
 
 ### To use this template with custom settings, you can specify a value for the fields:
 - `Optimize for pixel art:` Handy if you're targeting pixel art style- set: `either true or false`
@@ -34,18 +37,18 @@ If  imported successfully, you should see something similar as in the above imag
 ---
 
 ## Note for users
-> To change background colour navigate to: `Player Settings > Splash Image > Background > Background Color`. Any colour you set there would be applied to this tool, you can observe it during the initial load of your game.  
-   ![Screenshot (458).png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/Screenshot%20(458).png)
+> To change background colour navigate to: `Player Settings > Splash Image > Background > Background Color`. Any colour you set there would be applied to this tool, you can observe it during the initial load of your game: 
+   ![img](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/RM5.png)
 
-> In case you're hosting your unity WebGL game on [itch.io](itch.io), usually unity defaults a resolution of `960 X 600`, this tends to clip off this template's contents caused by the size of the container which itch website uses to render WebGL games:
+> In case you're hosting your unity WebGL game on [itch.io](itch.io), usually unity defaults a resolution of `960 X 600`, this tends to clip off this template's contents caused by the size of the container which itch website uses to render WebGL games..
 
 *Here's my hacky way of achieving a fitting dimension:*
 
 - Inside unity, set the default Width and Height to `860 X 500`  as seen [above](https://github.com/ebukaracer/RacerMinimal?tab=readme-ov-file#usage-guide).
 - On itch website, while editing your game, set the Width and Height values to `960 X 600`:
 - 
-![Screenshot (457).png](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/Screenshot%20(457).png)  
+![img](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/RM6.png)  
 
 ## Credits
 - See [Unity docs](https://docs.unity3d.com/Manual/webgl-templates.html) on how to customize WebGL Templates.
-- Got inspired by [Better-Minimal](https://seansleblanc.itch.io/better-minimal-webgl-template) 
+- Inspired by [BetterMinimal](https://seansleblanc.itch.io/better-minimal-webgl-template) 
