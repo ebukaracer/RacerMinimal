@@ -21,7 +21,7 @@
 
 ![img](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/RM3.png)
 
-If  imported successfully, you should see something similar as in the above image, by navigating to `file > build setting > player setting > resolution and presentation`
+If imported successfully, you should see something similar as in the image above, by navigating to `file > build setting > player setting > resolution and presentation`
 
 ### To use this template with its default settings, select `RacerMinimal` from of the listed templates.
 
@@ -45,8 +45,7 @@ If  imported successfully, you should see something similar as in the above imag
 *Here's my hacky way of achieving a fitting dimension:*
 
 - Inside unity, set the default Width and Height to `860 X 500`  as seen [above](https://github.com/ebukaracer/RacerMinimal?tab=readme-ov-file#usage-guide).
-- On itch website, while editing your game, set the Width and Height values to `960 X 600`:
-- 
+- On itch website, while editing your game, set the Width and Height values to `960 X 600`:<br/>
 ![img](https://github.com/ebukaracer/ebukaracer/blob/ebukaracer-resources/RacerMinimal-Images/RM6.png)  
 
 ## Credits
